@@ -72,3 +72,13 @@ JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426
 JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
 JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
 1584182605835	Marionette	INFO	Stopped listening on port 40977
+1584183627748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerTroYd"
+1584183628059	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584183628292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584183628292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584183628292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584183628292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584183629559	Marionette	INFO	Listening on port 33187
+1584183629654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx?id=292841&mkt=EN-GB, line 18: NS_ERROR_NOT_INITIALIZED: 
+1584183643678	Marionette	INFO	Stopped listening on port 33187
