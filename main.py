@@ -16,10 +16,10 @@ class OutlookBot():
         email_in = self.driver.find_element_by_xpath('//*[@id="i0116"]')
         pass_in = self.driver.find_element_by_xpath('//*[@id="i0118"]')
         email_in.send_keys(email)
-        sleep(2)
+        sleep(1)
         next_btn.click()
         pass_in.send_keys(password)
-        sleep(2)
+        sleep(1)
         sign_btn = self.driver.find_element_by_xpath('//*[@id="idSIButton9"]')
         sign_btn.click()
 

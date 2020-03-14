@@ -82,3 +82,37 @@ JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: 
 1584183629654	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://outlook.office365.com/owa/prefetch.aspx?id=292841&mkt=EN-GB, line 18: NS_ERROR_NOT_INITIALIZED: 
 1584183643678	Marionette	INFO	Stopped listening on port 33187
+1584184330435	Marionette	INFO	Stopped listening on port 33559
+1584184351596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB9Eboo"
+1584184351879	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584184352100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584184352100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584184352100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584184352101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584184353286	Marionette	INFO	Listening on port 42241
+1584184353302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx?id=292841&mkt=EN-GB, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+1584184373756	Marionette	INFO	Stopped listening on port 42241
+1584205863431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledc7ktF"
+1584205864010	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584205864384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584205864384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584205864384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584205864384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584205866224	Marionette	INFO	Listening on port 42067
+1584205866248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx?id=292841&mkt=EN-US, line 18: NS_ERROR_NOT_INITIALIZED: 
+1584205878756	Marionette	INFO	Stopped listening on port 42067
+1584206716201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletYRe4Z"
+1584206716550	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1584206716773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1584206716773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1584206716774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1584206716774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1584206718303	Marionette	INFO	Listening on port 45337
+1584206718308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx?id=292841&mkt=EN-US, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+JavaScript error: resource:///modules/SearchTelemetry.jsm, line 658: TypeError: channel.loadInfo is null
+1584206750863	Marionette	INFO	Stopped listening on port 45337
