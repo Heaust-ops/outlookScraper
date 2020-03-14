@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/heaust/Desktop/Directories/MyProjects/Outlook_scraper/venv"
+set -gx VIRTUAL_ENV "/home/heaust/Desktop/Directories/MyProjects/aides/boilerplates/Selenium/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
